@@ -28,7 +28,7 @@ A simple **YouTube UI clone** built using **HTML & CSS**. This project replicate
 
 
 ## **📸 Preview**  
-![YouTube Clone Preview](your-screenshot-url.png) *(Upload a screenshot and replace this URL)*  
+![YouTube Clone Preview](https://github.com/Aakashdoraisamy/Youtube-Clone/blob/main/Screenshot.png) *(Upload a screenshot and replace this URL)*  
 
 ---
 
