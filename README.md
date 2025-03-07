@@ -30,14 +30,6 @@ A simple **YouTube UI clone** built using **HTML & CSS**. This project replicate
 ## **📸 Preview**  
 ![YouTube Clone Preview](https://github.com/Aakashdoraisamy/Youtube-Clone/blob/main/Screenshot.png) *(Upload a screenshot and replace this URL)*  
 
----
-
-## **📌 How to Run?**  
-1️⃣ Clone the repository:  
-```sh
-git clone https://github.com/Aakashdoraisamy/Youtube-Clone.git
-```
-2️⃣ Open `youtube.html` in your browser.  
 
 ## **📩 Contributing**  
 Feel free to fork the repo and submit **pull requests** for improvements!  
